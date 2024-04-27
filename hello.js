@@ -233,12 +233,15 @@ fs.readFile("abc.txt", "utf8", (err,data)=>{
   
 // console.log(isAnagram("showkjwdjet", "akwohst"));
 
-let string =`10 +   2 *    (   6 - (4 + 1) / 2) + 7`
+// let string =`10 +   2 *    (   6 - (4 + 1) / 2) + 7`
 
-let newstring = string.replace(/\s+/g, ' ').trim();
+// let newstring = string.replace(/\s+/g, ' ').trim();
 
-console.log(eval(newstring));
+// console.log(eval(newstring));
 
+
+
+//#LEARNING GIT AND GITHUB//
 
 
 
